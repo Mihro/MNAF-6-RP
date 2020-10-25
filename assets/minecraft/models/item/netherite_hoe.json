@@ -89,6 +89,7 @@
     { "predicate": { "custom_model_data": 143 }, "model": "minecraft:item/netherite_hoe" },
     { "predicate": { "custom_model_data": 143 }, "model": "mnaf:props/block/balloons" },
     { "predicate": { "custom_model_data": 144 }, "model": "mnaf:props/block/fnaf_table" },
+    { "predicate": { "custom_model_data": 145 }, "model": "mnaf:props/block/tip_jar" },
 
     { "predicate": { "custom_model_data": 201 }, "model": "mnaf:animatronics/vixie_bull" },
     { "predicate": { "custom_model_data": 202 }, "model": "minecraft:item/netherite_hoe" }
