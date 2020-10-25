@@ -113,14 +113,14 @@ give @p written_book{
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:137}"},"text":"mop_bucket\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:138}"},"text":"papers\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:139}"},"text":"wires\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:139}"},"text":"trash_can_2\\n"}
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:140}"},"text":"trash_can_2\\n"}
 
 		]',
 		'[
 			"",
 			{"text":"Block Props 5\\n",underlined:true},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:140}"},"text":"balloon_barrel\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:141}"},"text":"peanuts\\n"}
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:141}"},"text":"balloon_barrel\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:142}"},"text":"peanuts\\n"}
 		]',
 		'[
 			"",
