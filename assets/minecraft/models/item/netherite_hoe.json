@@ -56,7 +56,7 @@
     { "predicate": { "custom_model_data": 110 }, "model": "mnaf:props/block/chair" },
     { "predicate": { "custom_model_data": 111 }, "model": "mnaf:props/block/chica_cupcake" },
     { "predicate": { "custom_model_data": 112 }, "model": "mnaf:props/block/door_big" },
-    { "predicate": { "custom_model_data": 113 }, "model": "mnaf:props/block/door_metal" },
+    { "predicate": { "custom_model_data": 113 }, "model": "minecraft:item/netherite_hoe" },
     { "predicate": { "custom_model_data": 114 }, "model": "mnaf:props/block/fake_cactus" },
     { "predicate": { "custom_model_data": 115 }, "model": "mnaf:props/block/flashlight" },
     { "predicate": { "custom_model_data": 116 }, "model": "mnaf:props/block/mic_stand" },
@@ -90,8 +90,9 @@
     { "predicate": { "custom_model_data": 144 }, "model": "mnaf:props/block/fnaf_table" },
     { "predicate": { "custom_model_data": 145 }, "model": "mnaf:props/block/tip_jar" },
     { "predicate": { "custom_model_data": 146 }, "model": "mnaf:props/block/bench" },
-    { "predicate": { "custom_model_data": 147 }, "model": "minecraft:item/netherite_hoe" },
+    { "predicate": { "custom_model_data": 147 }, "model": "mnaf:props/block/red_guard_door" },
     { "predicate": { "custom_model_data": 148 }, "model": "mnaf:props/block/blue_guard_door" },
+    { "predicate": { "custom_model_data": 149 }, "model": "minecraft:item/netherite_hoe" },
 
     { "predicate": { "custom_model_data": 201 }, "model": "mnaf:animatronics/vixie_bull" },
     { "predicate": { "custom_model_data": 202 }, "model": "minecraft:item/netherite_hoe" }
