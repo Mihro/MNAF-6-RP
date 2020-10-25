@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"plank": "block/oak_planks",
+		"plank": "1.16:block/oak_planks",
 		"shade_color": "mnaf:materials/red",
 		"trim_color": "mnaf:materials/yellow",
 		"black": "mnaf:materials/black",
@@ -670,10 +670,10 @@
 			}
 		},
 		{
-			"from": [8, -16, -0.5],
-			"to": [24, 0, -0.4375],
+			"from": [9, -15, -0.5],
+			"to": [23, -1, -0.4375],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#wheel"},
+				"north": {"uv": [1, 1, 15, 15], "texture": "#wheel"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#wheel"}
 			}
 		},
@@ -939,11 +939,11 @@
 		},
 		{
 			"name": "Wheel2*",
-			"from": [8, -16, 16.5],
-			"to": [24, 0, 16.5625],
+			"from": [9, -15, 16.5],
+			"to": [23, -1, 16.5625],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#wheel"},
-				"south": {"uv": [1, 0, 16, 16], "texture": "#wheel"}
+				"south": {"uv": [1, 1, 15, 15], "texture": "#wheel"}
 			}
 		},
 		{
@@ -1042,7 +1042,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -47],
+			"translation": [-15, 0, -48],
 			"scale": [2, 2, 2]
 		}
 	}
