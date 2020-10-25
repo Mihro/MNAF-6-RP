@@ -37,6 +37,13 @@
     { "predicate": { "custom_model_data": 63 }, "model": "mnaf:animatronics/heads/vixie" },
     { "predicate": { "custom_model_data": 64 }, "model": "minecraft:item/netherite_hoe" },
 
+    { "predicate": { "custom_model_data": 91 }, "model": "mnaf:animatronics/plushies/bonnie" },
+    { "predicate": { "custom_model_data": 92 }, "model": "mnaf:animatronics/plushies/chica" },
+    { "predicate": { "custom_model_data": 93 }, "model": "mnaf:animatronics/plushies/foxy" },
+    { "predicate": { "custom_model_data": 94 }, "model": "mnaf:animatronics/plushies/fredbear" },
+    { "predicate": { "custom_model_data": 95 }, "model": "mnaf:animatronics/plushies/freddy" },
+    { "predicate": { "custom_model_data": 96 }, "model": "minecraft:item/netherite_hoe" },
+
     { "predicate": { "custom_model_data": 101 }, "model": "mnaf:props/block/arcade_cabinet_blue" },
     { "predicate": { "custom_model_data": 102 }, "model": "mnaf:props/block/arcade_cabinet_green" },
     { "predicate": { "custom_model_data": 103 }, "model": "mnaf:props/block/arcade_cabinet_red" },
@@ -79,6 +86,7 @@
     { "predicate": { "custom_model_data": 140 }, "model": "mnaf:props/block/trash_can_2" },
     { "predicate": { "custom_model_data": 141 }, "model": "mnaf:props/block/balloon_barrel" },
     { "predicate": { "custom_model_data": 142 }, "model": "mnaf:props/block/peanuts" },
+    { "predicate": { "custom_model_data": 143 }, "model": "minecraft:item/netherite_hoe" },
 
     { "predicate": { "custom_model_data": 201 }, "model": "mnaf:animatronics/vixie_bull" },
     { "predicate": { "custom_model_data": 202 }, "model": "minecraft:item/netherite_hoe" }
