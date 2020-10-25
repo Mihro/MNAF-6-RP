@@ -48,8 +48,8 @@
 			"translation": [0, -0.75, 0]
 		},
 		"head": {
-			"rotation": [90, 0, 0],
-			"translation": [0, -11, 1.25]
+			"rotation": [-90, 0, 0],
+			"translation": [0, -10, -14.5]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
