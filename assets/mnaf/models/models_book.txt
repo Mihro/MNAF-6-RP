@@ -144,6 +144,6 @@ give @p written_book{
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:201}"},"text":"vixie_bull\\n"}
 		]'
 	],
-	title:"Model Database",
+	title:"Model Database v1.3.1",
 	author:Mihro
 }
