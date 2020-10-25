@@ -7,12 +7,13 @@ give @p written_book{
 			{"clickEvent":{"action":"change_page","value":"3" },"text":"Arms 2\\n"},
 			{"clickEvent":{"action":"change_page","value":"4" },"text":"Heads 1\\n"},
 			{"clickEvent":{"action":"change_page","value":"5" },"text":"Heads 2\\n"},
-			{"clickEvent":{"action":"change_page","value":"6" },"text":"Block Props 1\\n"},
-			{"clickEvent":{"action":"change_page","value":"7" },"text":"Block Props 2\\n"},
-			{"clickEvent":{"action":"change_page","value":"8" },"text":"Block Props 3\\n"},
-			{"clickEvent":{"action":"change_page","value":"9" },"text":"Block Props 4\\n"},
-			{"clickEvent":{"action":"change_page","value":"10"},"text":"Block Props 5\\n"},
-			{"clickEvent":{"action":"change_page","value":"11"},"text":"Other\\n"}
+			{"clickEvent":{"action":"change_page","value":"6" },"text":"Plushies\\n"},
+			{"clickEvent":{"action":"change_page","value":"7" },"text":"Block Props 1\\n"},
+			{"clickEvent":{"action":"change_page","value":"8" },"text":"Block Props 2\\n"},
+			{"clickEvent":{"action":"change_page","value":"9" },"text":"Block Props 3\\n"},
+			{"clickEvent":{"action":"change_page","value":"1" },"text":"Block Props 4\\n"},
+			{"clickEvent":{"action":"change_page","value":"11"},"text":"Block Props 5\\n"},
+			{"clickEvent":{"action":"change_page","value":"12"},"text":"Other\\n"}
 		]',
 		'[
 			"",
@@ -58,6 +59,15 @@ give @p written_book{
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:61}"},"text":"starlit_chica\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:62}"},"text":"vinnie\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:63}"},"text":"vixie\\n"}
+		]',
+		'[
+			"",
+			{"text":"Plushies\\n",underlined:true},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:91}"},"text":"bonnie\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:92}"},"text":"chica\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:93}"},"text":"foxy\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:94}"},"text":"fredbear\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:95}"},"text":"freddy\\n"}
 		]',
 		'[
 			"",
