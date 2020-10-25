@@ -64,14 +64,15 @@
     { "predicate": { "custom_model_data": 125 }, "model": "mnaf:props/block/red_guard_desk_2" },
     { "predicate": { "custom_model_data": 126 }, "model": "mnaf:props/block/sconce" },
     { "predicate": { "custom_model_data": 127 }, "model": "mnaf:props/block/sink" },
-    { "predicate": { "custom_model_data": 128 }, "model": "mnaf:props/block/speaker" },
-    { "predicate": { "custom_model_data": 129 }, "model": "mnaf:props/block/static" },
-    { "predicate": { "custom_model_data": 130 }, "model": "mnaf:props/block/tnt_barrel" },
-    { "predicate": { "custom_model_data": 131 }, "model": "mnaf:props/block/toilet" },
-    { "predicate": { "custom_model_data": 132 }, "model": "mnaf:props/block/trash_can" },
-    { "predicate": { "custom_model_data": 133 }, "model": "mnaf:props/block/western_chair" },
-    { "predicate": { "custom_model_data": 134 }, "model": "mnaf:props/block/western_table" },
-    { "predicate": { "custom_model_data": 135 }, "model": "mnaf:props/block/wooden_cart" },
-    { "predicate": { "custom_model_data": 136 }, "model": "minecraft:item/netherite_hoe" }
+    { "predicate": { "custom_model_data": 128 }, "model": "mnaf:props/block/skirting" },
+    { "predicate": { "custom_model_data": 129 }, "model": "mnaf:props/block/speaker" },
+    { "predicate": { "custom_model_data": 130 }, "model": "mnaf:props/block/static" },
+    { "predicate": { "custom_model_data": 131 }, "model": "mnaf:props/block/tnt_barrel" },
+    { "predicate": { "custom_model_data": 132 }, "model": "mnaf:props/block/toilet" },
+    { "predicate": { "custom_model_data": 133 }, "model": "mnaf:props/block/trash_can" },
+    { "predicate": { "custom_model_data": 134 }, "model": "mnaf:props/block/western_chair" },
+    { "predicate": { "custom_model_data": 135 }, "model": "mnaf:props/block/western_table" },
+    { "predicate": { "custom_model_data": 136 }, "model": "mnaf:props/block/wooden_cart" },
+    { "predicate": { "custom_model_data": 137 }, "model": "minecraft:item/netherite_hoe" }
   ]
 }
