@@ -88,7 +88,6 @@ give @p written_book{
 			{"text":"Block Props 2\\n",underlined:true},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:111}"},"text":"chica_cupcake\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:112}"},"text":"door_big\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:113}"},"text":"door_metal\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:114}"},"text":"fake_cactus\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:115}"},"text":"flashlight\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:116}"},"text":"mic_stand\\n"},
@@ -134,7 +133,10 @@ give @p written_book{
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:143}"},"text":"balloons\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:144}"},"text":"fnaf_table\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:145}"},"text":"tip_jar\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:146}"},"text":"bench\\n"}
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:146}"},"text":"bench\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:147}"},"text":"red_guard_door\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:148}"},"text":"blue_guard_door\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:149}"},"text":"noose\\n"}
 		]',
 		'[
 			"",
