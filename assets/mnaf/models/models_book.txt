@@ -1,7 +1,19 @@
-vvv Paste this command into a command block vvv
-
 give @p written_book{
 	pages:[
+		'[
+			"",
+			{"text":"Table of Contents\\n",underlined:true},
+			{"clickEvent":{"action":"change_page","value":"2" },"text":"Arms 1\\n"},
+			{"clickEvent":{"action":"change_page","value":"3" },"text":"Arms 2\\n"},
+			{"clickEvent":{"action":"change_page","value":"4" },"text":"Heads 1\\n"},
+			{"clickEvent":{"action":"change_page","value":"5" },"text":"Heads 2\\n"},
+			{"clickEvent":{"action":"change_page","value":"6" },"text":"Block Props 1\\n"},
+			{"clickEvent":{"action":"change_page","value":"7" },"text":"Block Props 2\\n"},
+			{"clickEvent":{"action":"change_page","value":"8" },"text":"Block Props 3\\n"},
+			{"clickEvent":{"action":"change_page","value":"9" },"text":"Block Props 4\\n"},
+			{"clickEvent":{"action":"change_page","value":"10"},"text":"Block Props 5\\n"},
+			{"clickEvent":{"action":"change_page","value":"11"},"text":"Other\\n"}
+		]',
 		'[
 			"",
 			{"text":"Arms 1\\n",underlined:true},
@@ -85,19 +97,35 @@ give @p written_book{
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:125}"},"text":"red_guard_desk_2\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:126}"},"text":"sconce\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:127}"},"text":"sink\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:127}"},"text":"skirting\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:128}"},"text":"speaker\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:130}"},"text":"static\\n"}
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:129}"},"text":"static\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:130}"},"text":"tnt_barrel\\n"}
 		]',
 		'[
 			"",
 			{"text":"Block Props 4\\n",underlined:true},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:131}"},"text":"tnt_barrel\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:132}"},"text":"toilet\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:133}"},"text":"trash_can\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:134}"},"text":"western_chair\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:135}"},"text":"western_table\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:136}"},"text":"wooden_cart\\n"}
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:131}"},"text":"toilet\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:132}"},"text":"trash_can\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:133}"},"text":"western_chair\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:134}"},"text":"western_table\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:135}"},"text":"wooden_cart\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:136}"},"text":"skirting\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:137}"},"text":"mop_bucket\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:138}"},"text":"papers\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:139}"},"text":"wires\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:139}"},"text":"trash_can_2\\n"}
+
+		]',
+		'[
+			"",
+			{"text":"Block Props 5\\n",underlined:true},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:140}"},"text":"balloon_barrel\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:141}"},"text":"peanuts\\n"}
+		]',
+		'[
+			"",
+			{"text":"Other\\n",underlined:true},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:201}"},"text":"vixie_bull\\n"}
 		]'
 	],
 	title:"Model Database",
