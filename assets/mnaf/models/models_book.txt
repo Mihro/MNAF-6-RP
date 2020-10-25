@@ -133,7 +133,8 @@ give @p written_book{
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:142}"},"text":"peanuts\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:143}"},"text":"balloons\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:144}"},"text":"fnaf_table\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:145}"},"text":"tip_jar\\n"}
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:145}"},"text":"tip_jar\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:146}"},"text":"bench\\n"}
 		]',
 		'[
 			"",
