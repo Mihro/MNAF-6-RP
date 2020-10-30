@@ -11,7 +11,7 @@ give @p written_book{
 			{"clickEvent":{"action":"change_page","value":"7" },"text":"Block Props 1\\n"},
 			{"clickEvent":{"action":"change_page","value":"8" },"text":"Block Props 2\\n"},
 			{"clickEvent":{"action":"change_page","value":"9" },"text":"Block Props 3\\n"},
-			{"clickEvent":{"action":"change_page","value":"1" },"text":"Block Props 4\\n"},
+			{"clickEvent":{"action":"change_page","value":"10"},"text":"Block Props 4\\n"},
 			{"clickEvent":{"action":"change_page","value":"11"},"text":"Block Props 5\\n"},
 			{"clickEvent":{"action":"change_page","value":"12"},"text":"Other\\n"}
 		]',
