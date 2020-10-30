@@ -1,0 +1,107 @@
+{
+	"salvage.taser": {
+		"sounds": [
+			"mnaf:salvage/taser"
+		]
+	},
+	"salvage.correct": {
+		"sounds": [
+			"mnaf:salvage/correct"
+		]
+	},
+	"salvage.incorrect": {
+		"sounds": [
+			"mnaf:salvage/error"
+		]
+	},
+	"salvage.try_again": {
+		"sounds": [
+			"mnaf:salvage/tryagain"
+		]
+	},
+	"salvage.night_1.1": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_1",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.2": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_2",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.3": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_3",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.4": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_4",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.5": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_5",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.6": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_6",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.7": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_7",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.8": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_8",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.9": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_9",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.10": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/night_1/night1_10",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_1.salvage_bonnie_scream": {
+		"sounds": [
+			"mnaf:salvage/night_1/salvage_bonnie_scream"
+		]
+	}
+}
