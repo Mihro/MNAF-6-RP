@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "mnaf:props/blocks/red_guard_desk",
 		"1": "mnaf:props/blocks/red_guard_desk_map"
@@ -62,7 +63,7 @@
 				"north": {"uv": [5.75, 9.625, 5.875, 11], "texture": "#0"},
 				"east": {"uv": [4.125, 2.25, 5.875, 3.625], "texture": "#0"},
 				"south": {"uv": [0, 9.75, 0.125, 11.125], "texture": "#0"},
-				"west": {"uv": [0, 0, 10.407, 7.814], "texture": "#1"},
+				"west": {"uv": [0, 0, 12.67188, 10.48438], "texture": "#1"},
 				"up": {"uv": [5.875, 3.75, 4.125, 3.625], "rotation": 270, "texture": "#0"},
 				"down": {"uv": [5.875, 3.75, 4.125, 3.875], "rotation": 90, "texture": "#0"}
 			}

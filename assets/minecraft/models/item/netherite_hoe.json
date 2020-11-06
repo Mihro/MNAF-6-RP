@@ -93,14 +93,16 @@
     { "predicate": { "custom_model_data": 147 }, "model": "mnaf:props/block/red_guard_door" },
     { "predicate": { "custom_model_data": 148 }, "model": "mnaf:props/block/blue_guard_door" },
     { "predicate": { "custom_model_data": 149 }, "model": "mnaf:props/block/noose" },
-    { "predicate": { "custom_model_data": 150 }, "model": "mnaf:props/block/shelf2x2roof" },
-    { "predicate": { "custom_model_data": 151 }, "model": "mnaf:props/block/shelf2x2noroof" },
-    { "predicate": { "custom_model_data": 152 }, "model": "minecraft:item/netherite_hoe" },
-
+    { "predicate": { "custom_model_data": 150 }, "model": "mnaf:props/block/wall_socket" },
+    { "predicate": { "custom_model_data": 151 }, "model": "mnaf:props/block/cream_soda_rack" },
+    { "predicate": { "custom_model_data": 152 }, "model": "mnaf:props/block/boxes1" },
+    { "predicate": { "custom_model_data": 153 }, "model": "mnaf:props/block/boxes2" },
+    { "predicate": { "custom_model_data": 154 }, "model": "mnaf:props/block/shelf2x1" },
+    { "predicate": { "custom_model_data": 155 }, "model": "mnaf:props/block/shelf2x2_roof" },
+    { "predicate": { "custom_model_data": 156 }, "model": "mnaf:props/block/shelf2x2_no_roof" },
+    { "predicate": { "custom_model_data": 157 }, "model": "mnaf:props/block/shelf1x2" },
     { "predicate": { "custom_model_data": 201 }, "model": "mnaf:animatronics/vixie_bull" },
     { "predicate": { "custom_model_data": 202 }, "model": "minecraft:item/netherite_hoe" },
-
-    { "predicate": { "custom_model_data": 1001 }, "model": "mnaf:cctv/camera" },
-    { "predicate": { "custom_model_data": 1002 }, "model": "minecraft:item/netherite_hoe" }
+    { "predicate": { "custom_model_data": 1001 }, "model": "mnaf:cctv/camera" }
   ]
 }

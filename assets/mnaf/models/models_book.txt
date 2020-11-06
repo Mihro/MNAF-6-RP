@@ -11,9 +11,10 @@ give @p written_book{
 			{"clickEvent":{"action":"change_page","value":"7" },"text":"Block Props 1\\n"},
 			{"clickEvent":{"action":"change_page","value":"8" },"text":"Block Props 2\\n"},
 			{"clickEvent":{"action":"change_page","value":"9" },"text":"Block Props 3\\n"},
-			{"clickEvent":{"action":"change_page","value":"10"},"text":"Block Props 4\\n"},
+			{"clickEvent":{"action":"change_page","value":"10" },"text":"Block Props 4\\n"},
 			{"clickEvent":{"action":"change_page","value":"11"},"text":"Block Props 5\\n"},
-			{"clickEvent":{"action":"change_page","value":"12"},"text":"Other\\n"}
+                        {"clickEvent":{"action":"change_page","value":"12"},"text":"Block Props 6\\n"},
+			{"clickEvent":{"action":"change_page","value":"13"},"text":"Other\\n"}
 		]',
 		'[
 			"",
@@ -136,14 +137,28 @@ give @p written_book{
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:146}"},"text":"bench\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:147}"},"text":"red_guard_door\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:148}"},"text":"blue_guard_door\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:149}"},"text":"noose\\n"}
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:149}"},"text":"noose\\n"},
+                        {"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:150}"},"text":"wall_socket\\n"}
 		]',
 		'[
+
+			"",
+			{"text":"Block Props 6\\n",underlined:true},
+                        {"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:151}"},"text":"cream_soda_rack\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:152}"},"text":"boxes 1\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:153}"},"text":"boxes 2\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:154}"},"text":"shelf 2x1\\n"},
+                        {"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:155}"},"text":"shelf 2x2_no_roof\\n"},
+	                {"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:156}"},"text":"shelf 2x2_roof\\n"},
+                        {"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:157}"},"text":"shelf 1x2\\n"}
+		]',
+                '[
+
 			"",
 			{"text":"Other\\n",underlined:true},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:201}"},"text":"vixie_bull\\n"}
 		]'
 	],
-	title:"Model Database v1.3.1",
+	title:"Model Database",
 	author:Mihro
 }
