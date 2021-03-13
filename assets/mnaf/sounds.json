@@ -1,5 +1,5 @@
 {
-	"cctv.enter_camera": {
+	"cctv.camera.enter": {
 		"sounds": [
 			{
 				"name": "mnaf:cctv/camera_enter",
@@ -28,7 +28,7 @@
 			}
 		]
 	},
-	"cctv.camera_turn": {
+	"cctv.camera.turn": {
 		"sounds": [
 			{
 				"name": "mnaf:cctv/camera_turn",
