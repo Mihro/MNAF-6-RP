@@ -36,30 +36,61 @@
 			}
 		]
 	},
+	"salvage.ai.vent": {
+		"sounds": [
+			"mnaf:salvage/ai/vent_sound"
+		]
+	},
+	"salvage.ai.bonnie.breathe": {
+		"sounds": [
+			"mnaf:salvage/ai/breathe"
+		]
+	},
+	"salvage.ai.freddy.moan": {
+		"sounds": [
+			"mnaf:salvage/ai/moan"
+		]
+	},
+	"salvage.ai.bonnie.scream": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/ai/bonnie_scream",
+				"stream": true
+			}
+		]
+	},
+	"salvage.ai.freddy.scream": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/ai/freddy_scream",
+				"stream": true
+			}
+		]
+	},
 	"salvage.taser": {
 		"sounds": [
-			"mnaf:salvage/tasershort"
+			"mnaf:salvage/shed/tasershort"
 		]
 	},
 	"salvage.correct": {
 		"sounds": [
-			"mnaf:salvage/correct"
+			"mnaf:salvage/shed/correct"
 		]
 	},
 	"salvage.incorrect": {
 		"sounds": [
-			"mnaf:salvage/error"
+			"mnaf:salvage/shed/error"
 		]
 	},
 	"salvage.try_again": {
 		"sounds": [
-			"mnaf:salvage/tryagain"
+			"mnaf:salvage/shed/tryagain"
 		]
 	},
 	"salvage.night_1.1": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_1",
+				"name": "mnaf:salvage/shed/night_1/night1_1",
 				"stream": true
 			}
 		]
@@ -67,7 +98,7 @@
 	"salvage.night_1.2": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_2",
+				"name": "mnaf:salvage/shed/night_1/night1_2",
 				"stream": true
 			}
 		]
@@ -75,7 +106,7 @@
 	"salvage.night_1.3": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_3",
+				"name": "mnaf:salvage/shed/night_1/night1_3",
 				"stream": true
 			}
 		]
@@ -83,7 +114,7 @@
 	"salvage.night_1.4": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_4",
+				"name": "mnaf:salvage/shed/night_1/night1_4",
 				"stream": true
 			}
 		]
@@ -91,7 +122,7 @@
 	"salvage.night_1.5": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_5",
+				"name": "mnaf:salvage/shed/night_1/night1_5",
 				"stream": true
 			}
 		]
@@ -99,7 +130,7 @@
 	"salvage.night_1.6": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_6",
+				"name": "mnaf:salvage/shed/night_1/night1_6",
 				"stream": true
 			}
 		]
@@ -107,7 +138,7 @@
 	"salvage.night_1.7": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_7",
+				"name": "mnaf:salvage/shed/night_1/night1_7",
 				"stream": true
 			}
 		]
@@ -115,7 +146,7 @@
 	"salvage.night_1.8": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_8",
+				"name": "mnaf:salvage/shed/night_1/night1_8",
 				"stream": true
 			}
 		]
@@ -123,7 +154,7 @@
 	"salvage.night_1.9": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_9",
+				"name": "mnaf:salvage/shed/night_1/night1_9",
 				"stream": true
 			}
 		]
@@ -131,20 +162,20 @@
 	"salvage.night_1.10": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_1/night1_10",
+				"name": "mnaf:salvage/shed/night_1/night1_10",
 				"stream": true
 			}
 		]
 	},
 	"salvage.night_1.salvage_bonnie_scream": {
 		"sounds": [
-			"mnaf:salvage/night_1/salvage_bonnie_scream"
+			"mnaf:salvage/shed/night_1/salvage_bonnie_scream"
 		]
 	},
 	"salvage.night_2.1": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_2/salvage2_01",
+				"name": "mnaf:salvage/shed/night_2/salvage2_01",
 				"stream": true
 			}
 		]
@@ -152,7 +183,7 @@
 	"salvage.night_2.2": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_2/salvage2_02",
+				"name": "mnaf:salvage/shed/night_2/salvage2_02",
 				"stream": true
 			}
 		]
@@ -160,7 +191,7 @@
 	"salvage.night_2.3": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_2/salvage2_03",
+				"name": "mnaf:salvage/shed/night_2/salvage2_03",
 				"stream": true
 			}
 		]
@@ -168,7 +199,7 @@
 	"salvage.night_2.4": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_2/salvage2_04",
+				"name": "mnaf:salvage/shed/night_2/salvage2_04",
 				"stream": true
 			}
 		]
@@ -176,7 +207,7 @@
 	"salvage.night_2.5": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_2/salvage2_end",
+				"name": "mnaf:salvage/shed/night_2/salvage2_end",
 				"stream": true
 			}
 		]
@@ -184,21 +215,134 @@
 	"salvage.night_2.salvage_freddy_scream": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_2/freddy_scream"
+				"name": "mnaf:salvage/shed/night_2/freddy_scream"
 			}
 		]
 	},
 	"salvage.night_2.phone.beginning": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_2/phone_beginning"
+				"name": "mnaf:salvage/shed/night_2/phone_beginning"
 			}
 		]
 	},
 	"salvage.night_2.phone.end": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/night_2/phone_end"
+				"name": "mnaf:salvage/shed/night_2/phone_end"
+			}
+		]
+	},
+	"salvage.night_3.1": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_01",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_3.2": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_02",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_3.3": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_03",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_3.4": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_04",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_3.5": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_05",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_3.6": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_06",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_3.phone.end": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/night3_07",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_3.salvage_foxy_scream": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_3/salvage_foxy_scream",
+				"stream": true,
+				"pitch": 1.4
+			}
+		]
+	},
+	"salvage.night_4.1": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_1",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_4.2": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_2",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_4.3": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_3",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_4.4": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_4",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_4.5": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_5",
+				"stream": true
+			}
+		]
+	},
+	"salvage.night_4.6": {
+		"sounds": [
+			{
+				"name": "mnaf:salvage/shed/night_4/night4_6",
+				"stream": true
 			}
 		]
 	}

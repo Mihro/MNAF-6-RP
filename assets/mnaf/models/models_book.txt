@@ -38,7 +38,9 @@ give @p written_book{
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:13}"},"text":"salvage_freddy_left\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:14}"},"text":"salvage_freddy_right\\n"},
 			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:15}"},"text":"starlit_chica\\n"},
-			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:16}"},"text":"vinnie\\n"}
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:16}"},"text":"vinnie\\n"},
+                        		{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:17}"},"text":"springtrap\\n"},
+			{"clickEvent":{"action":"run_command","value":"/give @s netherite_hoe{CustomModelData:18}"},"text":"Immolated_Circus_baby\\n"}
 		]',
 		'[
 			"",
