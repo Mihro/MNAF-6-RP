@@ -54,7 +54,7 @@
 	"salvage.ai.scream.bonnie": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/ai/bonnie_scream",
+				"name": "mnaf:salvage/common/bonnie_scream",
 				"stream": true
 			}
 		]
@@ -62,7 +62,7 @@
 	"salvage.ai.scream.freddy": {
 		"sounds": [
 			{
-				"name": "mnaf:salvage/ai/freddy_scream",
+				"name": "mnaf:salvage/common/freddy_scream",
 				"stream": true
 			}
 		]
