@@ -41,17 +41,17 @@
 			"mnaf:salvage/ai/vent_sound"
 		]
 	},
-	"salvage.ai.bonnie.breathe": {
+	"salvage.ai.breathe.bonnie": {
 		"sounds": [
 			"mnaf:salvage/ai/breathe"
 		]
 	},
-	"salvage.ai.freddy.moan": {
+	"salvage.ai.moan.freddy": {
 		"sounds": [
 			"mnaf:salvage/ai/moan"
 		]
 	},
-	"salvage.ai.bonnie.scream": {
+	"salvage.ai.scream.bonnie": {
 		"sounds": [
 			{
 				"name": "mnaf:salvage/ai/bonnie_scream",
@@ -59,7 +59,7 @@
 			}
 		]
 	},
-	"salvage.ai.freddy.scream": {
+	"salvage.ai.scream.freddy": {
 		"sounds": [
 			{
 				"name": "mnaf:salvage/ai/freddy_scream",
